@@ -4,10 +4,11 @@ public class carTest {
     public static void main(String[] args) {
         cars newCar = new cars();
 
-        newCar.name="ferarii";
-        newCar.color="blue";
-        newCar.doors=3;
-        newCar.engineCapacity="600000c";
+
+        newCar.name="lambo";
+        newCar.engineCapacity ="13341cc";
+        newCar.doors=7;
+        newCar.model="aventador";
 
         System.out.println(newCar.color);
 
